@@ -3,7 +3,9 @@
 Hi - I am Leon, PhD student and code/data enthusiast (read rookie). I teach and study environmental economics.
 
 ## :computer: Coding
-I work with large (not big) patent data. For data work I mostly use Python, but being an economist I sometimes resort to Stata for statistical/economtric analysis.
+I work with large (not big) patent data. For data work I mostly use Python, but being an economist I sometimes resort to Stata for statistical/econometric analysis.
+
+Also, I started using R, a statistical language that allows for easy data manipulation, analysis and visualization.
 
 I do like the interactive possibilities that HTML, CSS, JavaScript offer. I aim at utilizing these tools more in the future (for teaching and presentations).
 
