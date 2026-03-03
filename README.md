@@ -1,26 +1,29 @@
 # :wave: About me
 
-Hi - I am Leon, PhD student and code/data enthusiast (read rookie). I teach and study environmental economics.
+Hi - I am Leon, postdoc and code/data enthusiast. I teach and research environmental economics at university. I attempt to make my projects replicable.
 
 ## :computer: Coding
-I work with large (not big) patent data. For data work I mostly use Python and R, but being an economist I sometimes resort to Stata for statistical/econometric analysis.
+I work with data, sometimes large data. I work in R, but I have worked in Python and Stata as well. Projects focus heavily on cleaning data, doing statistical (econometric) analysis, and visualizing results.
 
-I do like the interactive possibilities that HTML, CSS, JavaScript offer. I aim at utilizing these tools more in the future (for teaching and presentations).
+I have also created some notebooks for students.
 
 ## :bulb: Research
 
-My (PhD) projects are mostly hosted in private GitHub repositories. I am considering moving them out in the open (when the time has come).
+I work on several environmental economic topics, like:
+- Climate policy evaluation
+- Energy efficiency
+- Water savings
+
+I use applied econometrics methods, like difference-in-differences and instrumental variables.
 
 ## :raising_hand: Contacts and clicky stuff
 
-### Personal
+Personal webpage:
 
 :globe_with_meridians: [leonbremer.nl](http://leonbremer.nl)
 
-:email: [info@leonbremer.nl](mailto:info@leonbremer.nl)
+Utrecht University:
 
-### Research and teaching
+:email: [a.c.j.m.bremer@uu.nl](mailto:a.c.j.m.bremer@uu.nl)
 
-:globe_with_meridians: [research.vu.nl/en/persons/leon-bremer](https://research.vu.nl/en/persons/leon-bremer)
-
-:email: [l.bremer@vu.nl](mailto:l.bremer@vu.nl)
+:globe_with_meridians: [https://www.uu.nl/staff/ACJMBremer](https://www.uu.nl/staff/ACJMBremer)
