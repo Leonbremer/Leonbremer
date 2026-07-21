@@ -1,6 +1,6 @@
 # :wave: About me
 
-Hi - I am Leon, postdoc and code/data enthusiast. I teach and research environmental economics at university. I attempt to make my projects replicable.
+Hi - I am Leon, economist and code/data enthusiast. I teach and research environmental economics at university. I attempt to make my projects replicable.
 
 ## :computer: Coding
 I work with data, sometimes large data. I work in R, but I have worked in Python and Stata as well. Projects focus heavily on cleaning data, doing statistical (econometric) analysis, and visualizing results.
